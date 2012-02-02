@@ -1,0 +1,13 @@
+refactor dry and generally improve the syntax of the to_text method now the logic is figured
+
+do the same for the to_binary
+
+sort to_hex so it doesnt use to_binary?
+
+add methods to string to convert back to ints
+
+make new classes for hex and binary?
+
+do the memory thing at some point
+
+put spinner in own branch? and play with git branching stuff
